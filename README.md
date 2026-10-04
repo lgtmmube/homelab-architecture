@@ -1,5 +1,7 @@
 # Homelab
 
+**日本語** | [English](README.en.md)
+
 [![ホームラボの物理構成](physical-topology.png)](physical-topology.png)
 
 [![クラスタとオブザーバビリティ基盤の構成](kube-obs.png)](kube-obs.png)
